@@ -1,4 +1,4 @@
-https://colab.research.google.com
+use: https://colab.research.google.com
 
 ![Cover photo of Colab-ssh](docs/assets/cover.png)
 
