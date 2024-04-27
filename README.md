@@ -1,3 +1,5 @@
+https://colab.research.google.com
+
 ![Cover photo of Colab-ssh](docs/assets/cover.png)
 
 > A new version of colab-ssh is coming soon, stay tuned.
